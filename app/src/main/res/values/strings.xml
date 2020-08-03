@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NFC Emulate Card</string>
+    <string name="app_label_send">Send</string>
+    <string name="app_hint_enter_text">Enter text</string>
+    <string name="app_error_enter_text">please write something in editText</string>
+
+    <string name="servicedesc">Servicio NFC</string>
+
+    <string name="aiddescription">aiddescription</string>
+
+</resources>
